@@ -1,0 +1,43 @@
+/** General Section */
+.cart-button {
+    border: 5px;
+}
+
+.footer p{
+    text-align: center;
+}
+
+/** Home Page */
+/* .carousel .item {
+    height: 300px;
+  }
+  
+  .item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px;
+  } */
+
+/** About Us Page */
+.about-section {
+    background-color: #ffc0cb;
+    padding-bottom: 51px;
+}
+.about-section p{
+    /* background-color: #ffc0cb; */
+    font-family: 'Dosis', sans-serif;
+}
+
+.abth1{
+    padding-top: 20px;
+}
+
+.p1{
+    padding: 150px;
+}
+
+.p2{
+    padding-left: 85px;
+    padding-right: 85px;
+}

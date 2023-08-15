@@ -1,0 +1,19 @@
+{
+  "name": "3ohpies",
+  "version": "1.0.0",
+  "description": "Best Pies in the 305",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "run start"
+  },
+  "keywords": [
+    "threeohpies"
+  ],
+  "author": "Rollie",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.5",
+    "nodemon": "^2.0.22"
+  }
+}
